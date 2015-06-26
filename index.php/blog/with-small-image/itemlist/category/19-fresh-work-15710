@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fresh Work 1</title>
+		<description><![CDATA[Hoxa - Responsive Multipurpose Joomla Template]]></description>
+		<link>http://demo.cththemes.com</link>
+		<lastBuildDate>Mon, 15 Jun 2015 11:25:34 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/itemlist/category/19-fresh-work-1?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Website Lightbox</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/112-website-lightbox</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/112-website-lightbox</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Events and More</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/37-events-and-more</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/37-events-and-more</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>To-Do Dashboard</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/36-to-do-dashboard</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/36-to-do-dashboard</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>10 Navigation Bars</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/35-10-navigation-bars</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/35-10-navigation-bars</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Skateshop Website</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/34-skateshop-website</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/34-skateshop-website</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Website Lightbox</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/33-website-lightbox</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/33-website-lightbox</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>World Clock Widget</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/32-world-clock-widget</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/32-world-clock-widget</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Client chat app VIP</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/31-client-chat-app-vip</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/31-client-chat-app-vip</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dashboard Plus</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/30-dashboard-plus</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/30-dashboard-plus</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<category>Fresh Work 1</category>
+			<pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

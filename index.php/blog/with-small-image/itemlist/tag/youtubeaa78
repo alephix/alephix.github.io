@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Displaying items by tag: youtube</title>
+		<description><![CDATA[Hoxa - Responsive Multipurpose Joomla Template]]></description>
+		<link>http://demo.cththemes.com</link>
+		<lastBuildDate>Mon, 15 Jun 2015 11:25:23 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/itemlist/tag/youtube?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Making this the first true generator on the internet</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-large-image/item/110-making-this-the-first-true-generator-on-the-internet</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-large-image/item/110-making-this-the-first-true-generator-on-the-internet</guid>
+			<description><![CDATA[<div class="K2FeedImage"><img src="http://demo.cththemes.com/hoxa/media/k2/items/cache/d722f2a14a84b7ad8053262f61a6106b_S.jpg" alt="Making this the first true generator on the internet" /></div><div class="K2FeedIntroText"><p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years</p>
+</div><div class="K2FeedFullText">
+<p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years</p></div>]]></description>
+			<author>contact.cththemes@gmail.com (Super User)</author>
+			<category>Blog Large Image</category>
+			<pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Making this the first true generator on the internet</title>
+			<link>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/39-making-this-the-first-true-generator-on-the-internet</link>
+			<guid isPermaLink="true">http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/item/39-making-this-the-first-true-generator-on-the-internet</guid>
+			<description><![CDATA[<div class="K2FeedImage"><img src="http://demo.cththemes.com/hoxa/media/k2/items/cache/c99e3db826c0f4cc2688a36ce3b60e1a_S.jpg" alt="Making this the first true generator on the internet" /></div><div class="K2FeedIntroText"><p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years</p>
+</div><div class="K2FeedFullText">
+<p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years</p></div>]]></description>
+			<author>contact.cththemes@gmail.com (Super User)</author>
+			<category>Blog</category>
+			<pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

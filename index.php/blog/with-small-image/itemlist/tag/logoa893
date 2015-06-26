@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Displaying items by tag: logo</title>
+	<subtitle type="text">Hoxa - Responsive Multipurpose Joomla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://demo.cththemes.com"/>
+	<id>http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/itemlist/tag/logo</id>
+	<updated>2015-06-15T11:27:47+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://demo.cththemes.com/hoxa/index.php/blog/with-small-image/itemlist/tag/logo?format=feed&amp;type=atom"/>
+	<entry>
+		<title>packages info</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-sidebar/item/101-packages-info"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-sidebar/item/101-packages-info</id>
+		<author>
+			<name>Cththemes</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio + Sidebar" />
+	</entry>
+	<entry>
+		<title>evolved over</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-sidebar/item/100-evolved-over"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-sidebar/item/100-evolved-over</id>
+		<author>
+			<name>Cththemes</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio + Sidebar" />
+	</entry>
+	<entry>
+		<title>Morbi Posuere</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/96-morbi-posuere"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/96-morbi-posuere</id>
+		<author>
+			<name>Cththemes</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio Gallery" />
+	</entry>
+	<entry>
+		<title>Suscipit Porttitor</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/84-suscipit-porttitor"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/84-suscipit-porttitor</id>
+		<author>
+			<name>Cththemes</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio Gallery" />
+	</entry>
+	<entry>
+		<title>Cubilia Curae</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/83-cubilia-curae"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/image-gallery/item/83-cubilia-curae</id>
+		<author>
+			<name>Cththemes</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio Gallery" />
+	</entry>
+	<entry>
+		<title>packages info</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-full-width/item/76-packages-info"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-full-width/item/76-packages-info</id>
+		<author>
+			<name>Super User</name>
+			<email>contact.cththemes@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio Fullwidth" />
+	</entry>
+	<entry>
+		<title>evolved over</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-full-width/item/75-evolved-over"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-full-width/item/75-evolved-over</id>
+		<author>
+			<name>Super User</name>
+			<email>contact.cththemes@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio Fullwidth" />
+	</entry>
+	<entry>
+		<title>packages info</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-4/item/62-packages-info"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-4/item/62-packages-info</id>
+		<author>
+			<name>Super User</name>
+			<email>contact.cththemes@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio 4 Columns" />
+	</entry>
+	<entry>
+		<title>evolved over</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-4/item/61-evolved-over"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-4/item/61-evolved-over</id>
+		<author>
+			<name>Super User</name>
+			<email>contact.cththemes@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio 4 Columns" />
+	</entry>
+	<entry>
+		<title>evolved over</title>
+		<link rel="alternate" type="text/html" href="http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-3/item/57-evolved-over"/>
+		<published>2014-09-30T00:00:00+00:00</published>
+		<updated>2014-09-30T00:00:00+00:00</updated>
+		<id>http://demo.cththemes.com/hoxa/index.php/portfolio/portfolio-columns-3/item/57-evolved-over</id>
+		<author>
+			<name>Super User</name>
+			<email>contact.cththemes@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;div class=&quot;portfolio_area&quot;&gt;
+&lt;div class=&quot;portfolio_area_left&quot;&gt;&lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;images/project1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;portfolio_area_right&quot;&gt;
+&lt;h4&gt;Project Description&lt;/h4&gt;
+&lt;p&gt;There are many variations passages available alteraised words which look even slightly believable.&lt;/p&gt;
+&lt;a href=&quot;#&quot; class=&quot;addto_favorites&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;  Add to Favorites&lt;/a&gt;
+&lt;ul class=&quot;small_social_links&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-google-plus&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;project_details&quot;&gt;
+&lt;h5&gt;Project Details&lt;/h5&gt;
+&lt;span&gt;&lt;strong&gt;Date&lt;/strong&gt; &lt;em&gt;18 May 2014&lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Categories&lt;/strong&gt; &lt;em&gt;&lt;a href=&quot;#&quot;&gt;Animation&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;HTML5&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Clean&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;Design&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Author&lt;/strong&gt; &lt;em&gt;M.A Anderson&lt;/em&gt;&lt;/span&gt;
+&lt;div class=&quot;clearfix margin_top5&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;#&quot; class=&quot;but_goback&quot;&gt;&lt;i class=&quot;fa fa-hand-o-right fa-lg&quot;&gt;&lt;/i&gt; Visit Site&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- end section --&gt;&lt;/div&gt;</content>
+		<category term="Portfolio 3 Columns" />
+	</entry>
+</feed>
